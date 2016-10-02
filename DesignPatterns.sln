@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Object-OrientedDesignPrinci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_TheFactoryMethod", "03_TheFactoryMethod\03_TheFactoryMethod.csproj", "{7DECCE8B-5FBA-479E-A58D-443C64DD30C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_AbstractFactory", "04_AbstractFactory\04_AbstractFactory.csproj", "{6768A6C8-8A8E-4E99-B799-047353437873}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{7DECCE8B-5FBA-479E-A58D-443C64DD30C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DECCE8B-5FBA-479E-A58D-443C64DD30C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DECCE8B-5FBA-479E-A58D-443C64DD30C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6768A6C8-8A8E-4E99-B799-047353437873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6768A6C8-8A8E-4E99-B799-047353437873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6768A6C8-8A8E-4E99-B799-047353437873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6768A6C8-8A8E-4E99-B799-047353437873}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
