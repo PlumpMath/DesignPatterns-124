@@ -10,6 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Object-OrientedDesignPrinciples", "Object-OrientedDesignPrinciples", "{362ACBDB-E0E8-450F-93B1-505C9BD69164}"
 	ProjectSection(SolutionItems) = preProject
 		ReadMe.txt = ReadMe.txt
+		设计模式六大原则.txt = 设计模式六大原则.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_TheFactoryMethod", "03_TheFactoryMethod\03_TheFactoryMethod.csproj", "{7DECCE8B-5FBA-479E-A58D-443C64DD30C3}"
@@ -31,6 +32,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_FacadePattern", "11_FacadePattern\11_FacadePattern.csproj", "{82EBB2B2-5FD0-49AE-A341-0D6F03089713}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_FlyweightPattern", "12_FlyweightPattern\12_FlyweightPattern.csproj", "{A6B87D20-5281-4505-87C1-52C27B0A4D8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_ProxyPattern", "13_ProxyPattern\13_ProxyPattern.csproj", "{55B30058-D454-4FC4-949D-C6D83CFB55FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -86,6 +89,10 @@ Global
 		{A6B87D20-5281-4505-87C1-52C27B0A4D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6B87D20-5281-4505-87C1-52C27B0A4D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6B87D20-5281-4505-87C1-52C27B0A4D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55B30058-D454-4FC4-949D-C6D83CFB55FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B30058-D454-4FC4-949D-C6D83CFB55FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B30058-D454-4FC4-949D-C6D83CFB55FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B30058-D454-4FC4-949D-C6D83CFB55FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
