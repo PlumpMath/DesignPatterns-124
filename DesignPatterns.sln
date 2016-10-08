@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_IteratorPattern", "16_It
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_ObserverPattern", "17_ObserverPattern\17_ObserverPattern.csproj", "{4EE74676-3600-4F3C-8FB9-08AB951C7458}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_MediatorPattern", "18_MediatorPattern\18_MediatorPattern.csproj", "{3F9690C4-AC6E-41F3-B3CD-3744B06B3D15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{4EE74676-3600-4F3C-8FB9-08AB951C7458}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EE74676-3600-4F3C-8FB9-08AB951C7458}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EE74676-3600-4F3C-8FB9-08AB951C7458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F9690C4-AC6E-41F3-B3CD-3744B06B3D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9690C4-AC6E-41F3-B3CD-3744B06B3D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9690C4-AC6E-41F3-B3CD-3744B06B3D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9690C4-AC6E-41F3-B3CD-3744B06B3D15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
